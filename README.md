@@ -1,5 +1,4 @@
-# Budget Tracker
-## "Manage Your Finances Easily"
+# Budget Tracker - "Manage Your Finances Easily"
 
 ### Description
 The Budget Tracker is a web-based application built using JavaScript, HTML, and CSS, designed to assist users in tracking their expenditures and incomes for current month. 
