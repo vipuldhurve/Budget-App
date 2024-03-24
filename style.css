@@ -33,7 +33,7 @@ body {
 
 .top {
     height: 60vh;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)), url(/6-budgety/starter/back2.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.35)), url(back3.png);
     background-size: cover;
     background-position: center;
     position: relative;
